@@ -3,6 +3,7 @@
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
 
 ## Example 1:
+<img width="354" height="291" alt="image" src="https://github.com/user-attachments/assets/124355ac-8815-4f05-9d91-74b95e14a4fc" />
 
 
 Input: root = [1,2,2,3,4,4,3]
